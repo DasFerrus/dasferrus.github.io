@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Righteous');
+
 h1{
 	color: #fff;
 	font-family: 'Righteous', cursive;
-	font-size: 65px;
+	font-size: 90px;
 	letter-spacing: -1px;
 	font-weight: normal;
 	line-height: 60px;
@@ -12,16 +14,74 @@ h1{
 }
 
 body {
-	background-color: #fcfcfc;
+	background-color: #e8e8e8;
 	text-align: center;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #banner {
+	font-family: 'Righteous', cursive;
 	padding-top: 14px;
 	padding-bottom: 14px;
-	width: 900px;
+	width: 1200px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #a4e5f2;
 	align-content:center;
+}
+
+#navcontainer{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+#navcontainer, a:link{
+	text-decoration: none;
+	color: #000;
+}
+
+#navcontainer, a:visited{
+	text-decoration: none;
+	color: #000;
+}
+
+#navcontainer, a:hover{
+	text-decoration: none;
+	color: #000;
+}
+
+#navleft{
+	width: 500px;
+	float: left;
+}
+
+#leftleft{
+	width: 250px;
+	float: left;
+	text-align: center;
+}
+
+#rightleft{
+	width: 250px;
+	float: right;
+	text-align: center;
+}
+
+#navright{
+	width: 500px;
+	float: right;
+}
+
+#leftright{
+	width: 250px;
+	float: left;
+	text-align: center;
+}
+
+#rightright{
+	width: 250px;
+	float: right;
+	text-align: center;
 }
