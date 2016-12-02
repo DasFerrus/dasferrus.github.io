@@ -1,0 +1,27 @@
+h1{
+	color: #fff;
+	font-family: 'Righteous', cursive;
+	font-size: 65px;
+	letter-spacing: -1px;
+	font-weight: normal;
+	line-height: 60px;
+	margin: 10px 0 20px;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 0 #000, margin: 10px 0 24px;
+	text-align: center;
+}
+
+body {
+	background-color: #fcfcfc;
+	text-align: center;
+}
+
+#banner {
+	padding-top: 14px;
+	padding-bottom: 14px;
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #a4e5f2;
+	align-content:center;
+}
