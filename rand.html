@@ -2,14 +2,14 @@
 <head>
 	<script type="text/javascript">
 
-		function ContentDown(d)
+		function ContentDown()
 			{
 			var a = element.scollTop;
 
-			var obj = document.getElementById(d);
+			var obj = document.getElementById(movingDiv);
 			var currentPosition = parseInt(obj.style.left)
 
-			obj.style.left = currentPosition+30+"pt";
+			obj.style.left = currentPosition+a+"pt";
 			}
 
 	</script>
