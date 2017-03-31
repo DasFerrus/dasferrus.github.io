@@ -457,7 +457,7 @@ header nav ul li a.bordered {
   max-width: 68em;
   margin-left: auto;
   margin-right: auto;
-  padding-bottom: 2em;
+/*  padding-bottom: 2em;*/
   opacity: 0;
   -webkit-transform: translateY(50px);
   -moz-transform: translateY(50px);
